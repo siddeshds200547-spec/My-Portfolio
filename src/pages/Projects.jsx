@@ -118,9 +118,9 @@ const PROJECTS = [
       "Framer Motion",
     ],
     github:
-      "https://github.com/siddeshds200547-spec/FUTURE_FS_01",
+      "https://github.com/siddeshds200547-spec/My-Portfolio",
     live:
-      "https://siddeshds200547-spec.github.io/my-portfolio-web/",
+      "https://siddesh-portfoli0.netlify.app/",
     status: "Live",
     icon: "💻",
   },
