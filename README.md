@@ -1,82 +1,75 @@
-# 💻 Kunj Desai — Portfolio Website
-Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
-It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
+# 💻 Siddesh D S — Portfolio Website
 
-🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.vercel.app/)
+Welcome to my personal portfolio website.
 
-🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
-<img width="1894" height="992" alt="image" src="https://github.com/user-attachments/assets/8a6eeff0-3ebc-446c-a1ac-5f1a02279ac8" />
-<img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="https://github.com/user-attachments/assets/355b1c4c-83e6-4465-9081-bff34bb3ad3b" />
----
+I am a Computer Science Engineering student and an **Aspiring Java Full Stack Developer**, passionate about software development, backend technologies, AI, data, and building practical applications.
 
-## 🚀 Features
+## 🚀 About Me
 
-* 🎨 **Modern UI/UX** with black-based aesthetic theme
-* ⚡ Smooth **Framer Motion** animations
-* 💼 **Projects, Resume, and Contact sections**
-* 🧠 Tech-focused portfolio highlighting AI/ML projects
-* 📨 Functional contact form powered by **EmailJS**
-* 🧩 Responsive design for all screen sizes
+- 🎓 B.E. Computer Science Engineering
+- 💻 Aspiring Java Full Stack Developer
+- ☕ Java & Backend Development
+- 🌐 React & Full Stack Development
+- 🗄️ SQL & Database Technologies
+- 🤖 AI & Machine Learning Enthusiast
+- 📊 Data & Technology Enthusiast
 
----
+## 🛠️ Technologies
 
-## 🛠️ Tech Stack
+- Java
+- C
+- SQL
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- TypeScript
+- Vite
+- Tailwind CSS
+- MongoDB
+- Git
+- GitHub
+- Python
+- AI / ML
 
-| Category            | Tools / Libraries                        |
-| ------------------- | ---------------------------------------- |
-| **Frontend**        | React.js, HTML5, CSS3, JavaScript (ES6+) |
-| **Styling**         | Tailwind CSS / Custom CSS                |
-| **Animation**       | Framer Motion                            |
-| **Contact Form**    | EmailJS                                  |
-| **Version Control** | Git & GitHub                             |
-| **Deployment**      | Vercel / Netlify                         |
+## 📂 Portfolio Sections
 
----
+- Home
+- About
+- Skills
+- Projects
+- Experience
+- Certificates
+- Blog
+- Resume
+- Contact
 
-## ⚙️ Setup Instructions
+## 🌱 Experience
 
-To run this project locally:
+I also have teaching experience in **Science and Mathematics**, which has helped me develop:
 
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+- Communication
+- Leadership
+- Problem solving
+- Confidence
+- Presentation skills
+- Classroom management
 
-# 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+## 🔗 Connect With Me
 
-# 3️⃣ Install dependencies
-npm install
+- **LinkedIn:** https://www.linkedin.com/in/siddesh-ds-520a54379/
+- **GitHub:** https://github.com/siddeshds200547-spec
 
-# 4️⃣ Run development server
-npm start or npm run dev
-```
+## 📄 Resume
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+My latest resume is available directly through the portfolio website.
 
----
+## 🖥️ Built With
 
-## 📬 Contact
+This portfolio is built using:
 
-If you’d like to collaborate or just say hi 👋, feel free to reach out!
-
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
-
----
-
-## 🌟 Deployment
-
-Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
-Every push to the `main` branch triggers an automatic rebuild and deployment.
-
----
-
-### 🏁 License
-
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, use, and build upon it ⭐
+**React + Vite + JavaScript + Framer Motion + CSS**
 
 ---
 
-> *“Showcasing my work and passion through technology 💻”*
+© 2026 Siddesh D S
