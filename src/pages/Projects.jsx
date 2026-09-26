@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Github, ExternalLink, FolderGit2 } from "lucide-react";
-import "../CSS/Projects.css";
+import "../CSS/projects.css";
 
 const PROJECTS = [
   {
