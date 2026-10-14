@@ -15,7 +15,7 @@ const IMAGES = {
       id: "teaching",
       caption:
         "Teaching and sharing knowledge — an experience that has strengthened my communication, confidence and leadership.",
-      photos: ["/gallery/TEACHING.jpeg"],
+       photos: ["/gallery/WhatsApp Image 2026-10-06 at 9.19.36 PM.jpeg"],
     },
     {
       id: "anchoring",
